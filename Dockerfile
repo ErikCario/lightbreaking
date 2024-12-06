@@ -7,6 +7,9 @@ WORKDIR /app
 # Copy project files into the container
 COPY . /app
 
+# Upgrade pip to the latest version
+RUN pip install --upgrade pip
+
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
