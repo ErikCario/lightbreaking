@@ -11,5 +11,5 @@ A Python app that logs sunrise and sunset times and sends Discord notifications.
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sunrise-sunset-notifier.git
+   git clone https://github.com/your-username/lightbreaking.git
    cd sunrise-sunset-notifier
