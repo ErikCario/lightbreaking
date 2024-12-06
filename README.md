@@ -1,4 +1,4 @@
-#I have no idea what im doing, I used ChatGPT to help me figure out how to use python.
+# I have no idea what im doing, I used ChatGPT to help me figure out how to use python.
 
 # Sunrise-Sunset Notifier
 
