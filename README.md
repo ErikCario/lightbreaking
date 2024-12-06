@@ -11,4 +11,4 @@ A Python app that logs sunrise and sunset times and sends Discord notifications.
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ErikCario/lightbreaking.git && cd lightbreaking
+   git clone https://github.com/ErikCario/lightbreaking.git && cd lightbreaking && docker build -t lightbreaking .
